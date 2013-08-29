@@ -1,0 +1,14 @@
+{
+  "name": "editable-sanitize-component",
+  "version": "0.0.1",
+  "description": "ContentEditable sanitizer for use with nickjackson/editable",
+  "keywords": ["contenteditable", "editable", "content", "input", "ui", "sanitize"],
+  "dependencies": {
+    "events-component-2": "*"
+  },
+  "component": {
+    "scripts": {
+      "editable-sanitize": "index.js"
+    }
+  }
+}
